@@ -1,5 +1,8 @@
 ![HEADER](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&pause=800\&color=ffcc00\&width=1000\&lines=Hi+%F0%9F%91%8B%2C+I'm+Shayan+Jalali!;Biotechnology+%7C+Bioinformatics+%7C+ML;Welcome+to+my+Research+GitHub!)
 
+![Banner](https://github.com/shayanjl/shayanjl/blob/main/DoubleHelixMotionGraphicsGIFbyButlerm.gif?raw=true)
+
+
 ---
 ## 👨‍🔬 About Me
 * 🌐 [CV & Website](https://shayanjl.github.io)
