@@ -1,10 +1,8 @@
-
-
-![HEADER](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&pause=1000\&color=ffcc00\&width=1000\&lines=Hi+%F0%9F%91%8B%2C+I'm+**Shayan+Jalali**!;Biotechnology+%7C+Bioinformatics+%7C+ML;Welcome+to+my+Research+GitHub!)
-
+![HEADER](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&pause=1000\&color=ffcc00\&width=1000\&lines=Hi+%F0%9F%91%8B%2C+I'm+Shayan+Jalali!;Biotechnology+%7C+Bioinformatics+%7C+ML;Welcome+to+my+Research+GitHub!)
 
 ---
-
+[Download my CV]()
+---
 ## 👨‍🔬 About Me
 
 * 🎓 Master's student in *Medical Biotechnology* at [UPO](https://www.uniupo.it), Italy
