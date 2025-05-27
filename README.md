@@ -6,18 +6,17 @@
 
 ---
 
-Have a look at my publications and research areas in my [CV](https://github.com/shayanjl/shayanjl.github.io/blob/main/ShayanJL.pdf).
+👉 Have a look at my publications and research areas in my [CV](https://github.com/shayanjl/shayanjl.github.io/blob/main/ShayanJL.pdf).
 
 ---
+
 ## 👨‍🔬 About Me
-* 🌐 [CV & Website](https://shayanjl.github.io)
 * 🎓 Master's student in *Medical Biotechnology* at [UPO](https://www.uniupo.it), Italy
 * 🔬 Erasmus+ Visiting Scientist at [RCSI Dublin](https://www.rcsi.com)
 * 🧠 Specialized in bioinformatics, ODE modeling, and multi-omics
 * 🛠 Languages: `Julia`, `R`, `Python`, `Git`, `LaTeX`
 * 🌍 International experience: Italy, Ireland, Iran
 * 🎥 YouTube Channel: [@ShayanJL](https://www.youtube.com/@ShayanJL)
-* 📅 [Book a meeting with me](https://calendly.com/shayanjl)
 
 ---
 
@@ -43,8 +42,11 @@ Have a look at my publications and research areas in my [CV](https://github.com/
 ---
 
 ## 📫 Contact
+
+* 🌐 [Website](https://shayanjl.github.io)
 * 📧 Email: [shayanjalali.bioinformatics@gmail.com](mailto:shayanjalali.bioinformatics@gmail.com) / [shayanjalali@rcsi.com](mailto:shayanjalali@rcsi.com)
 * 🔗 [LinkedIn](https://linkedin.com/in/shayanjl)
+* 📅 [Book a meeting with me](https://calendly.com/shayanjl)
 * 📍 Based in Novara, Italy & Dublin, Ireland
 
 
