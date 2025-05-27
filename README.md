@@ -1,6 +1,6 @@
 
 
-![HEADER](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=35\&pause=800\&color=ffcc00\&width=1000\&lines=Hi+%F0%9F%91%8B%2C+I'm+Shayan!;Biotechnology+%7C+Bioinformatics+%7C+ML;Welcome+to+my+Research+GitHub!)
+![HEADER](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=35\&pause=800\&color=ffcc00\&width=1000\&lines=Hi+%F0%9F%91%8B%2C+I'm+Shayan!;Biotechnology+%7C+Bioinformatics+%7C;Welcome+to+my+Research+GitHub!)
 
 ![Double Helix GIF](https://github.com/shayanjl/shayanjl/blob/main/DoubleHelix_cropped.gif?raw=true)
 
