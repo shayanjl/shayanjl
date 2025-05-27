@@ -1,8 +1,12 @@
 
 
-![HEADER](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=35\&pause=800\&color=ffcc00\&width=1000\&lines=Hi+%F0%9F%91%8B%2C+I'm+Shayan!;Biotechnology+%7C+Bioinformatics+%7C;Welcome+to+my+Research+GitHub!)
+![HEADER](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=35\&pause=800\&color=ffcc00\&width=1000\&lines=Hi+%F0%9F%91%8B%2C+I'm+Shayan!;Welcome+to+my+Research+GitHub!;Biotechnology+%7C+Bioinformatics)
 
 ![Double Helix GIF](https://github.com/shayanjl/shayanjl/blob/main/DoubleHelix_cropped.gif?raw=true)
+
+---
+
+Have a look at my publications and research areas in my [CV](https://github.com/shayanjl/shayanjl.github.io/blob/main/ShayanJL.pdf).
 
 ---
 ## 👨‍🔬 About Me
@@ -14,25 +18,6 @@
 * 🌍 International experience: Italy, Ireland, Iran
 * 🎥 YouTube Channel: [@ShayanJL](https://www.youtube.com/@ShayanJL)
 * 📅 [Book a meeting with me](https://calendly.com/shayanjl)
-
----
-
-## 📝 Publications
-
-* **Peritoneal Metastasis Prediction in Gastric Cancer** *(Manuscript in preparation)* – First author
-* **Nurse Macrophage Modeling in AML** *(Submitted)* – Contributing researcher
-* **Circulating miRNAs for Gastric Cancer Detection** *(Manuscript in preparation)* – Contributing researcher
-* **Nanobody Applications in Cancer Therapy** *(Published)* – [Link](https://civilica.com/doc/1823184/)
-
----
-
-## 🧪 Research Areas
-
-* 📊 Machine learning for biomedical prediction
-* 🔬 Transcriptomics and WGCNA analysis
-* 🧮 ODE-based modeling of biological systems
-* 🧠 Sensitivity analysis (Sobol, Morris)
-* 🔗 Multi-omics data integration
 
 ---
 
