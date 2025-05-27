@@ -6,6 +6,14 @@
 
 ---
 
+<h4 align="center">
+  🌍 <strong>Languages:</strong>
+  <a href="README.md">English</a> |
+  <a href="README.fa.md">فارسی</a> |
+  <a href="README.it.md">Italiano</a>
+</h4>
+
+--- 
 👉 Have a look at my publications and research areas in my [CV](https://github.com/shayanjl/shayanjl.github.io/blob/main/ShayanJL.pdf).
 
 ---
