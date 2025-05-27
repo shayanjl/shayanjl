@@ -1,10 +1,7 @@
-![BUILD](https://img.shields.io/github/actions/workflow/status/shayanjl/shayanjl.github.io/deploy.yml?branch=main\&label=BUILD)
-![GitHub Release](https://img.shields.io/github/release/shayanjl/shayanjl.github.io.svg)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fshayanjl.github.io)
 
----
 
-![HEADER](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&pause=1000\&color=ffcc00\&width=800\&lines=Hi+%F0%9F%91%8B%2C+I'm+Shayan+Jalali!;Medical+Biotech+%7C+Bioinformatics+%7C+Machine+Learning;Welcome+to+my+Research+GitHub!)
+![HEADER](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&pause=1000\&color=ffcc00\&width=800\&lines=Hi+%F0%9F%91%8B%2C+I'm+Shayan+Jalali!;Medical+Biotech+%7C+Bioinformatics+%7C+ML;Welcome+to+my+Research+GitHub!)
+
 
 ---
 
