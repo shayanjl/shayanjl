@@ -7,7 +7,7 @@
 ---
 
 <h4 align="center">
-  🌍 <strong>Languages:</strong>
+  🌍 <strong>Select your Language:</strong>
   <a href="README.md">English</a> |
   <a href="README.fa.md">فارسی</a> |
   <a href="README.it.md">Italiano</a>
