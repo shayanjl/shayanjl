@@ -57,13 +57,6 @@
 > "Shayan is a highly dedicated student whose grades have well exceeded expectations, known for his leadership, planning, and active academic involvement."
 > — *Dr. Mohammad Kazem Mohammadi*
 
----
-
-## 📁 Key Projects
-
-[![Thesis Modeling](https://github-readme-stats.vercel.app/api/pin/?username=shayanjl\&repo=aml-modeling-gsa\&theme=radical)](https://github.com/shayanjl/aml-modeling-gsa)
-
-[![Biomarker Discovery](https://github-readme-stats.vercel.app/api/pin/?username=shayanjl\&repo=gastric-biomarkers-ml\&theme=radical)](https://github.com/shayanjl/gastric-biomarkers-ml)
 
 ---
 
@@ -74,11 +67,6 @@
 * 🔗 [LinkedIn](https://linkedin.com/in/shayanjl)
 * 📍 Based in Novara, Italy & Dublin, Ireland
 
----
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/shayanjl/shayanjl/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/shayanjl/shayanjl/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
